@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "metadata": {
+		"authors": [
+			"Aevarkan"
+		],
+		"product_type": "addon"
+	},
+    "header": {
+        "description": "Adds a scale component to every entity from bedrock-samples.",
+        "name": "ECS Scale Components",
+        "uuid": "4d391a49-7318-4a77-aa21-84cddb08270c",
+        "version": [ 1, 21, 70 ],
+        "min_engine_version": [ 1, 21, 70 ]
+    },
+    "modules": [
+        {
+            "description": "ECS Scale Components",
+            "type": "data",
+            "uuid": "26577f6b-e3cd-409e-b43c-8d74572a76c1",
+            "version": [1, 0, 0]
+        }
+    ]
+}
+
