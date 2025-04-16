@@ -4,7 +4,7 @@
     "description": {
       "identifier": "minecraft:villager_v2",
       "is_spawnable": true,
-      "is_summonable": false
+      "is_summonable": true
     },
     "component_groups": {
       "minecraft:celebrate": {

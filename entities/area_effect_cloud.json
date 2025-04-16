@@ -4,7 +4,7 @@
     "description": {
       "identifier": "minecraft:area_effect_cloud",
       "is_spawnable": false,
-      "is_summonable": false,
+      "is_summonable": true,
       "is_experimental": false
     },
     "components": {

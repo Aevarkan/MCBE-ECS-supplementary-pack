@@ -4,7 +4,7 @@
     "description": {
       "identifier": "minecraft:wither_skull",
       "is_spawnable": false,
-      "is_summonable": false
+      "is_summonable": true
     },
     "component_groups": {
       "minecraft:exploding": {
