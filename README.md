@@ -1,5 +1,8 @@
-# ECS Scale Components
-Supplementary pack for ECS that adds scale components to all entities from [bedrock-samples](https://github.com/Mojang/bedrock-samples).
+# ECS Supplementary Pack
+Supplementary pack for ECS that adds scale components to all entities from [bedrock-samples](https://github.com/Mojang/bedrock-samples) as well as making them all summonable.
+
+> [!INFO]
+> This allows the shoot and scale commands from [ECS](https://github.com/Aevarkan/MCBE-extended-commands-suite) to work fully.
 
 > [!CAUTION]
 > This will **very** likely not be compatible with other addons, it changes `.json` files, including `player.json`.
