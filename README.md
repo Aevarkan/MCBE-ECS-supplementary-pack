@@ -1,7 +1,7 @@
 # ECS Supplementary Pack
 Supplementary pack for ECS that adds scale components to all entities from [bedrock-samples](https://github.com/Mojang/bedrock-samples) as well as making them all summonable.
 
-> [!INFO]
+> [!NOTE]
 > This allows the shoot and scale commands from [ECS](https://github.com/Aevarkan/MCBE-extended-commands-suite) to work fully.
 
 > [!CAUTION]
